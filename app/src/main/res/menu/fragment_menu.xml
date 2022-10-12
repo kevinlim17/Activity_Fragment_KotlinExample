@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/select_firstFragment"
+        android:enabled="true"
+        android:icon="@drawable/option_one"
+        android:title="@string/first_fragment" />
+    <item
+        android:id="@+id/select_secondFragment"
+        android:enabled="true"
+        android:icon="@drawable/option_two"
+        android:title="@string/second_fragment" />
+</menu>

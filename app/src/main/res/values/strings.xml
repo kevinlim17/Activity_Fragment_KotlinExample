@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mission3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to My New App!</string>
+    <string name="send">SEND</string>
+    <string name="firstactivity_info">This Stop : FirstActivity</string>
+    <string name="received">Received:</string>
+    <string name="go_to_second">Go to Second</string>
+    <string name="second_activity_info">This Stop : SecondActivity</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="text_from_firstFragment">Text from FirstFragment</string>
+    <string name="text_to_secondActivity">Send Text to SecondActivity</string>
+    <string name="send_to_main">Send To Main</string>
+    <string name="text_to_firstactivity">Send Text To FirstActivity</string>
+</resources>
